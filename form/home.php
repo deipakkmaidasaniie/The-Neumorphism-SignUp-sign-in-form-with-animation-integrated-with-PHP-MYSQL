@@ -1,3 +1,4 @@
+// this is a pj=hp file
 <?php
 session_start();
 if(!isset($_SESSION['username']))
